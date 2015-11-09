@@ -1,0 +1,37 @@
+{
+  "name": "koa-react-views",
+  "version": "0.0.0",
+  "description": "This is a Koa view engine that renders React components on the server. It renders static markup and *does not* support mounting those views on the client.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "view engine",
+    "react"
+  ],
+  "main": "index.js",
+  "author": "Dan MacTough <danmactough@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmactough/koa-react-views.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "dependencies": {
+    "js-beautify": "^1.5.10",
+    "babel-core": "^6.0.20",
+    "object-assign": "^4.0.1"
+  },
+  "devDependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "bugs": {
+    "url": "https://github.com/danmactough/koa-react-views/issues"
+  },
+  "homepage": "https://github.com/danmactough/koa-react-views#readme"
+}
