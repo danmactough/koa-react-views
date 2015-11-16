@@ -1,6 +1,6 @@
 {
   "name": "koa-react-views",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a Koa view engine that renders React components on the server. It renders static markup and *does not* support mounting those views on the client.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
