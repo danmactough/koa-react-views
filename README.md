@@ -1,5 +1,7 @@
 # koa-react-views
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danmactough/koa-react-views.svg)](https://greenkeeper.io/)
+
 This is a [Koa][koa] view engine that renders [React][react] components on the server. It renders static markup and *does not* support mounting those views on the client.
 
 This is intended to be used as a replacement for existing server-side view solutions.
